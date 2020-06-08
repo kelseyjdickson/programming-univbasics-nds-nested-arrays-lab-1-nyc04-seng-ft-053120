@@ -49,7 +49,7 @@ def sorted_matrix
 array = [
   ORGANIC_PRODUCE.sort,
   CONVENTIONAL_PRODUCE.sort
-}
+]
 
 
 
