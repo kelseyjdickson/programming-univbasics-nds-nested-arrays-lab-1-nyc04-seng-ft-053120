@@ -46,9 +46,10 @@ def sorted_matrix
   #   "Avocadoes",
   #   "Asparagus"
   # ]
-
-  ORGANIC_PRODUCE.sort
+array = [
+  ORGANIC_PRODUCE.sort,
   CONVENTIONAL_PRODUCE.sort
+}
 
 
 
