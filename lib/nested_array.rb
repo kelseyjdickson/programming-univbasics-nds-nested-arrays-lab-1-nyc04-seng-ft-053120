@@ -38,8 +38,7 @@ def sorted_matrix
     "Oranges",
     "Watermelon",
     "Eggplant"
-  ]
-CONVENTIONAL_PRODUCE.sort
+  ].sort
 
 end
 
