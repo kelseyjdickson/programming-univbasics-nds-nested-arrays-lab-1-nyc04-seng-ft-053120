@@ -39,13 +39,15 @@ def sorted_matrix
     "Watermelon",
     "Eggplant"
   ]
-  ORGANIC_PRODUCE = [[
+  ORGANIC_PRODUCE = [
     "Strawberries",
     "Potatoes",
     "Grapes",
     "Avocadoes",
     "Asparagus"
-  ],ORGANIC_PRODUCE.sort]
+  ],
+
+
 
 
 
